@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Welcome
 
 - 🔭 I’m currently working on SEO
 - 🌱 I’m currently learning Wordpress
